@@ -1,0 +1,21 @@
+#idea
+/.idea/
+/*.iml
+
+#gradle
+.gradle/
+build/
+out/
+
+#System Files
+*.DS_Store
+Thumbs.db
+
+src/jpaMetaModel/
+
+
+# dependencies
+/src/main/weijinng/node_modules/
+
+#build
+
